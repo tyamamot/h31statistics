@@ -21,10 +21,10 @@
 |#|日付|内容|資料|課題|
 |----|----|----|----|----|
 |1|4月9日|講義概要|[pdf](lectures/h31statistics20190409.pdf)||
-|2|4月16日|1変数データの記述と要約1<br>（量的データと質的データなど）|[pdf](lectures/h31statistics20190416.pdf)|[word](assignments/assignment20190416.docx), [pdf](assignments/assignment20190416.pdf)<br>締切:4月23日（火）講義開始時|
-|3|4月23日|1変数データの記述と要約2<br>（平均・分散・中央値など）|||
-|4|4月30日|2変数データの記述と要約1<br>（クロス集計表・散布図など）|||
-|5|5月7日|	2変数データの記述と要約2<br>（相関係数・回帰など）|||
+|2|4月16日|1変数データの記述と要約1<br>（量的データと質的データ，平均・中央値など）|[pdf](lectures/h31statistics20190416.pdf)|[word](assignments/assignment20190416.docx), [pdf](assignments/assignment20190416.pdf)<br>締切:4月23日（火）講義開始時|
+|3|4月23日|1変数データの記述と要約2<br>（箱ひげ図，分散・標準偏差など）|[pdf](lectures/h31statistics20190423.pdf)|[word](assignments/assignment20190423.docx), [pdf](assignments/assignment20190423.pdf)<br>[学生50名アンケート結果.xlsx](data/Students50.xlsx)<br>締切:5月7日（火）講義開始時|
+|4|4月30日|2変数データの記述と要約1<br>（クロス集計表・散布図，相関係数）|||
+|5|5月7日|	2変数データの記述と要約2<br>（回帰）|||
 |6|5月14日|確率の基礎1<br>（集合の復習，事象と確率）||| 
 |7|5月21日|確率の基礎2<br>（条件付き確率，ベイズの定理など）|||
 |8|5月28日|理解度確認テストとこれまでのまとめ|||
