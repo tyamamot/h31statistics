@@ -11,7 +11,7 @@
 
 ## お知らせ
 <!-- 2019/06/25 本日演習は[こちら](https://forms.gle/1s46dqMQX1mikUvz8) -->
-- 2019/06/18 本日の演習URLは[こちら](https://forms.gle/eyK4r9yaPDV4tNw86)
+<!-- - 2019/06/18 本日の演習URLは[こちら](https://forms.gle/eyK4r9yaPDV4tNw86) -->
 - 2019/06/17 レポート課題その4（5月21日分）の[要点解説](assignments/assignment20190521_answer.pdf) をアップロードしました．
 - 2019/05/23 レポート課題その3（5月7日分）の[要点解説](assignments/assignment20190507_answer.pdf) をアップロードしました．
 - 2019/05/17 レポート課題その3（5月7日分）の発展課題のヒントの共分散の方の式が間違っていました（nが1つ抜けていました）ので修正しました．発展課題に取り組むひとは [再ダウンロード](assignments/assignment20190507.pdf)してご確認ください．
