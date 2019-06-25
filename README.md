@@ -10,7 +10,7 @@
   - 教員HP: [https://rerank-lab.org](https://rerank-lab.org)
 
 ## お知らせ
-<!-- 2019/06/25 本日演習は[こちら](https://forms.gle/1s46dqMQX1mikUvz8) -->
+- 2019/06/25 本日演習は[こちら](https://forms.gle/1s46dqMQX1mikUvz8)
 - 2019/06/24 6月18日 [母集団と標本](assignments/assignment2190618.pdf) のスライド番号50の不偏分散の式が間違っていたので修正しました．すでにダウンロード済みの方は再ダウンロードください．
 - 2019/06/17 レポート課題その4（5月21日分）の[要点解説](assignments/assignment20190521_answer.pdf) をアップロードしました．
 - 2019/05/23 レポート課題その3（5月7日分）の[要点解説](assignments/assignment20190507_answer.pdf) をアップロードしました．
