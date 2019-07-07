@@ -10,9 +10,9 @@
   - 教員HP: [https://rerank-lab.org](https://rerank-lab.org)
 
 ## お知らせ
-- 2019/07/02 本日の演習は[こちら](https://forms.gle/9eDhyVwzkkYpxcJk6)
+
+<!-- - 2019/07/09 本日の演習は[こちら](https://forms.gle/xCj76YnRqmksbGLL6) -->
 - 2019/07/02 [区間推定](lectures/h31statistics20190702.pdf) のスライドを更新しました．すでにダウンロード済みの方は再ダウンロードください．
-- 2019/06/26 レポート課題その5の [要点解説](assignments/assignment20190611_answer.pdf) をアップロードしました．
 - 2019/06/25 期末試験は 7月30日（火）2限 ，場所はC201 です．
 
 ## 講義目的・到達目標（シラバスより）
@@ -39,7 +39,7 @@
 | 11  | 6月18日     | 母集団と標本                                                             | [pdf](lectures/h31statistics20190618.pdf)    (6月24日 14時更新)                                   |                                                                                                                                                                                                                                     |     |
 | 12  | 6月25日     | 標本平均と標本分散の性質                    ・大数の法則，中心極限定理   | [補足資料](lectures/supplement20190625.pdf)                                                       | [word](assignments/assignment20190625.docx), [pdf](assignments/assignment20190625.pdf)<br>締切:7月2日（火）講義開始時                                                                                                               |     |
 | 13  | 7月2日      | 母平均・母比率の推定                                                     | [pdf](lectures/h31statistics20190702.pdf)                                                         | [word](assignments/assignment20190702.docx), [pdf](assignments/assignment20190702.pdf)<br>締切:7月16日（火）講義開始時                                                                                                              |     |
-| 14  | 7月9日      | 仮説検定                                                                 |                                                                                                   |                                                                                                                                                                                                                                     |     |
+| 14  | 7月9日      | 仮説検定                                                                 | [pdf](lectures/h31statistics20190709.pdf)                                                         |                                                                                                                                                                                                                                     |     |
 | 15  | 7月16日     | まとめと発展的な話題                                                     |                                                                                                   |                                                                                                                                                                                                                                     |     |
 |     | 7月30日 2限 | 定期試験（場所: C201）                                                   |                                                                                                   |                                                                                                                                                                                                                                     |     |
 
