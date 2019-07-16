@@ -11,7 +11,7 @@
 
 ## お知らせ
 
-<!-- - 2019/07/16 講義アンケート（独自版）はこちら -->
+ - 2019/07/16 講義アンケート (1) [ユニバーサルパスポート版](https://egate.u-hyogo.ac.jp)，(2)  [山本版](https://forms.gle/Xa6uU6pnJpFqvRWeA)
 - 2019/07/11 レポート課題その6 [要点解説](assignments/assignment20190625_answer.pdf)をアップロードしました．
 - 2019/07/11 レポート課題その7の締切を7月23日（火） 12:10に変更しました（詳しくはユニバーサルパスポート参照）
 - 2019/06/25 期末試験は 7月30日（火）2限 ，場所はC201 です．
@@ -41,7 +41,7 @@
 | 12  | 6月25日     | 標本平均と標本分散の性質                    ・大数の法則，中心極限定理   | [補足資料](lectures/supplement20190625.pdf)                                                       | [word](assignments/assignment20190625.docx), [pdf](assignments/assignment20190625.pdf)<br>締切:7月2日（火）<br>[レポート要点解説](assignments/assignment20190625_answer.pdf) [中心極限定理の Excelファイル](data/CentralLimit.xlsx) |     |
 | 13  | 7月2日      | 母平均・母比率の推定                                                     | [pdf](lectures/h31statistics20190702.pdf)                                                         | [word](assignments/assignment20190702.docx), [pdf](assignments/assignment20190702.pdf)<br> 締切:<del>7月16日（火）</del> <br>7月23日（火）12:10                                                                                     |     |
 | 14  | 7月9日      | 仮説検定                                                                 | [pdf](lectures/h31statistics20190709.pdf)                                                         |                                                                                                                                                                                                                                     |     |
-| 15  | 7月16日     | まとめと発展的な話題                                                     |                                                                                                   |                                                                                                                                                                                                                                     |     |
+| 15  | 7月16日     | まとめと発展的な話題                                                     | [pdf](lectures/h31statistics20190716.pdf)                                                         |                                                                                                                                                                                                                                     |     |
 |     | 7月30日 2限 | 定期試験（場所: C201）                                                   |                                                                                                   |                                                                                                                                                                                                                                     |     |
 
 
